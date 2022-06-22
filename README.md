@@ -11,9 +11,6 @@ ___
     <a href="https://github.com/ash-hun" align="center">
       <img src=https://img.shields.io/badge/ash_hun-000000?style=flat-square/>
     </a>
-    <a href="https://github.com/HS98094" align="center">
-      <img src=https://img.shields.io/badge/HS98094-5C6BC0?style=flat-square/>
-    </a>
     <a href="https://github.com/MinsungKimDev" align="center">
       <img src=https://img.shields.io/badge/MinsungKimDev-7b00bd?style=flat-square/>
     </a>
