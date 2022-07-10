@@ -6,18 +6,20 @@
 > 자세한 사항은 가장 하단에 내용을 확인해주세요. 감사합니다 :)
 ___  
 # 📔 Main Contributor 
-<table>
-  <tr>
+<div align="center">
     <a href="https://github.com/ash-hun" align="center">
-      <img src=https://img.shields.io/badge/ash_hun-000000?style=flat-square/>
+      <img src=https://img.shields.io/badge/Ash_hun-000000?style=flat-square/>
     </a>
     <a href="https://github.com/MinsungKimDev" align="center">
       <img src=https://img.shields.io/badge/MinsungKimDev-7b00bd?style=flat-square/>
     </a>
-  </tr>
-</table>
-
-> *Thank you for any other contributor helps make this information :)*
+    <a href="https://github.com/HS980924" align="center">
+      <img src=https://img.shields.io/badge/HS980924-5e5858?style=flat-square/>
+    </a>
+    <a href="https://github.com/chaeha617" align="center">
+      <img src=https://img.shields.io/badge/chaeha617-e67c7c?style=flat-square/>
+    </a>
+</div>
 
 # 😎 Categories
 ### Ⅰ. 진로 / 취준 / 개발관련 행사안내 및 활용자료
@@ -39,9 +41,11 @@ ___
 - [쉽고 빠르게 점화식을 찾아보자!](https://oeis.org/)
 - [PS계의 나무위키! GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [개발과 영어를 동시에, StackOverflow](https://stackoverflow.com/)
-- [국내 코테 3대장, BOJ](https://www.acmicpc.net/)
-- [국내 코테 3대장, Programmers](https://programmers.co.kr/)
-- [국내 코테 3대장, SW Expert Academy](https://swexpertacademy.com/main/main.do)
+- [국내 코테 5대장, BOJ](https://www.acmicpc.net/)
+- [국내 코테 5대장, Programmers](https://programmers.co.kr/)
+- [국내 코테 5대장, SW Expert Academy](https://swexpertacademy.com/main/main.do)
+- [국내 코테 5대장, Leet Code](https://leetcode.com/)
+- [국내 코테 5대장, Code up](https://codeup.kr/)
 - [이진트리 잡기](https://www.youtube.com/watch?v=gG9EWb-JIQk)
 - [CodeForce](http://codeforces.com/)
 - [PS계 바이블, 구종만 블로그](http://theyearlyprophet.com/)
@@ -140,7 +144,8 @@ https://www.slideshare.net/NaverEngineering/techcon-2019-mobile-android3)
 - [Kaggle](https://www.kaggle.com/)
 - [AI Hub](https://aihub.or.kr/)
 - [Teachable Machine](https://teachablemachine.withgoogle.com/)
-- [인공지능 웹앱 만들기 wikidocs](https://wikidocs.net/book/4781)  
+- [인공지능 웹앱 만들기 wikidocs](https://wikidocs.net/book/4781)
+- [Online 수식 입력 플랫폼?!](https://statnmath.tistory.com/266)
 
 ##### ⅵ. AWS / Network, Hosting
 - [AWS EC2 SSH 접속가이드](https://youtu.be/oMVfhT_xlzk)
