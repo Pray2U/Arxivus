@@ -146,6 +146,7 @@ https://www.slideshare.net/NaverEngineering/techcon-2019-mobile-android3)
 - [Teachable Machine](https://teachablemachine.withgoogle.com/)
 - [인공지능 웹앱 만들기 wikidocs](https://wikidocs.net/book/4781)
 - [Online 수식 입력 플랫폼?!](https://statnmath.tistory.com/266)
+- [NLP를 위한 강의모음](https://charstring.tistory.com/459)
 
 ##### ⅵ. AWS / Network, Hosting
 - [AWS EC2 SSH 접속가이드](https://youtu.be/oMVfhT_xlzk)
