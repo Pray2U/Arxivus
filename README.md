@@ -1,4 +1,4 @@
-<h1 align="center">Arxivus</h1>
+<h1 align="center">📑Arxivus📑</h1>
 
 # 📒 Introduction
 > 본 컨텐츠는 **`개발자로써 필요한 정보들은 모아놓는 공간`** 입니다 :)  
@@ -18,6 +18,12 @@ ___
     </a>
     <a href="https://github.com/chaeha617" align="center">
       <img src=https://img.shields.io/badge/chaeha617-e67c7c?style=flat-square/>
+    </a>
+    <a href="https://github.com/Yurile72" align="center">
+      <img src=https://img.shields.io/badge/Yurile72-ededed?style=flat-square/>
+    </a>
+    <a href="https://github.com/go-ring" align="center">
+      <img src=https://img.shields.io/badge/LeeGaEun-7dd600?style=flat-square/>
     </a>
 </div>
 
