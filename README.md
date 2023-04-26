@@ -92,6 +92,7 @@ ___
 - [online markdown Reader](https://dillinger.io/)
 - [Git Workflow Diagram](https://happygrammer.github.io/guide/git-workflow-diagram/?fbclid=IwAR0lhsmWxfWqcHNizGfvZNdVUoHjtqEYUuTrzWKWbb7zwsLEICAmFrJz1OE)
 - [2022~2023 Github Profile 꾸미기](https://soo-vely-dev.tistory.com/159)
+- [Github Template 이용하기](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EA%B0%9C%EB%B0%9C%ED%8C%80-%EB%AA%A8%EB%91%90%EA%B0%80-%ED%96%89%EB%B3%B5%ED%95%9C-%EA%B0%9C%EB%B0%9C-pr%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95-7%EA%B0%80%EC%A7%80-1d4cd5d091f0)
 ___ 
 ### Ⅴ. 프로그래밍 언어/분야별 활용자료
 ##### ⅰ. 공통
