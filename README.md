@@ -53,8 +53,6 @@ ___
 - [국내 코테 5대장, Leet Code](https://leetcode.com/)
 - [국내 코테 5대장, Code up](https://codeup.kr/)
 - [이진트리 잡기](https://www.youtube.com/watch?v=gG9EWb-JIQk)
-- [CodeForce](http://codeforces.com/)
-- [PS계 바이블, 구종만 블로그](http://theyearlyprophet.com/)
 - [라이님 블로그](https://blog.naver.com/kks227/220769859177)
 - [박트리의 블로그](https://baactree.tistory.com/notice/16)
 - [Crocus 블로그](https://www.crocus.co.kr/341)
@@ -68,7 +66,6 @@ ___
 - [Window에 WSL2 적용하기](https://www.lesstif.com/software-architect/wsl-2-windows-subsystem-for-linux-2-71401661.html)
 - [유용한 생산성 Tool](https://velog.io/@chris/introducing-useful-productivity-tools)
 - [포트폴리오 제작을 위한 Starter Pack](https://velog.io/@couchcoding/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EC%A0%9C%EC%9E%91%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%EC%8B%9C-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EB%8F%84%EA%B5%AC%EB%93%A4-1)
-- [JIRA의 배포기능 활용하기!](https://blog.indentcorp.com/integrate-jira-deployment-with-github-actions/?fbclid=IwAR3Uj5tANH2CqKLGNSR6n5jKt1WFoHVkfi9fZnVv7aX7QwYk5oslfFianUY)  
 - [내 프로젝트에 알맞는 개발자 찾는법?](https://yozm.wishket.com/magazine/detail/1206/?fbclid=IwAR1lwy6QHULEalI6XZ42UlFQD3w0-VX5mvdRyiGuq8hQyaUArsZojiAtPi0)  
 - [왕초보를 위한 RESTful API사용법](https://velog.io/@couchcoding/%EA%B0%9C%EB%B0%9C-%EC%B4%88%EB%B3%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-RESTful-API-%EC%84%A4%EA%B3%84-%EA%B0%80%EC%9D%B4%EB%93%9C?fbclid=IwAR0UwNlZOR3ymdFUEteKkrq_neFrGDKhESzAptIzgywzQSln-ho3SQdgqSA)
 - [Awesome Github Badge Link Demo Site](https://dev.to/envoy_/150-badges-for-github-pnk)
@@ -98,7 +95,6 @@ ___
 ### Ⅴ. 프로그래밍 언어/분야별 활용자료
 ##### ⅰ. 공통
 - [Latest Dev Trend](https://app.daily.dev/)
-- [정보처리기사 실기 관련](https://youtu.be/A2Q9rLcPifk)
 - [Help for Everybody](https://github.com/ljh0326/helpForEverybody)
 - [생활코딩 Youtube](https://www.youtube.com/channel/UCvc8kv-i5fvFTJBFAk6n1SA)
 - [코딩앙마 Youtube](https://www.youtube.com/channel/UCxft4RZ8lrK_BdPNz8NOP7Q)
@@ -144,10 +140,6 @@ https://www.slideshare.net/NaverEngineering/techcon-2019-mobile-android3)
 - [Android Developers : Youtube Channels](https://www.youtube.com/user/androiddevelopers/videos)
 - [Android 개발자 공식 사이트](https://developer.android.com/)
 - [모바일 앱 디자인을 위한 9가지 원칙](https://www.uxpin.com/studio/blog/principles-mobile-app-design/)
-- [토닥토닥 ML Kit - ML Kit 인공지능 앱 만들기 (안드로이드 (자바))](https://wikidocs.net/book/5141)
-- [토닥토닥 ML Kit - ML Kit 인공지능 앱 만들기 (안드로이드 (코틀린))](https://wikidocs.net/book/5142)
-- [토닥토닥 ML Kit - ML Kit 인공지능 앱 만들기 (아이폰 (스위프트))](https://wikidocs.net/book/5144)
-- [토닥토닥 티처블 머신 - 티처블 머신 인공지능 앱 만들기 (안드로이드 (자바))](https://wikidocs.net/book/5827)
 
 ##### ⅴ. 머신러닝 & 데이터 분석
 - [Machine Learning study for Beginner](https://github.com/teddylee777/machine-learning)
